@@ -55,7 +55,7 @@
 ### 🏅 Certifications & Achievements
 - 🧾 **Web Development Using .NET** – ITI (Aug 2025 – Sep 2025)  
 - 🤖 **Machine Learning Internship Certificate** – Cellula Technologies (Jun 2025 – Jul 2025)  
-- 💻 **Software Engineering Certificate** – GDG Nile University (Feb 2025 – Jun 2025)  
+- 💻 **Software Engineering Certificate** – Google Developer Groups (GDG) Nile University (Feb 2025 – Jun 2025)  
 - 🥇 **Fully Functional Project Award** – Embedded Systems Course, NU (2024)  
 - 🏆 **Certificate of Appreciation** – NU Competitive Programming Arena (2025)  
 

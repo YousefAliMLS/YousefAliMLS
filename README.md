@@ -29,8 +29,8 @@
 
 ### 💼 Experience
 **🔹 NLP Engineer Intern – [Cellula Technologies](#)** *(Sep 2025 – Present)*  
-- Developed **LLM-powered applications** using **LangChain**, **LangGraph**, and **RAG**  
-- Worked on **Transformer-based models (BERT, GPT-like)** and fine-tuning pipelines  
+- Developing **LLM-powered applications** using **LangChain**, **LangGraph**, and **RAG**  
+- Workeing on **Transformer-based models (BERT, GPT-like)** and fine-tuning pipelines  
 
 **🔹 Machine Learning Engineer Intern – [Cellula Technologies](#)** *(Jul 2025 – Aug 2025)*  
 - Built full **ML pipelines** (data preprocessing → feature engineering → model deployment)  

@@ -8,11 +8,7 @@
   <a href="https://www.linkedin.com/in/yousef-ali-b38153304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YousefMahmoudAli@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://github.com/YousefAliMLS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YousefAliMLS&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---

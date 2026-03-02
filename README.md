@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student at Nile University (CGPA: 3.81/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
+Computer Science student at Nile University (CGPA: 3.85+/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
 
 - 🎓 **Education:** B.Sc. in Computer Science, Nile University (2023–2027)
 - 📍 **Location:** 6th of October City, Giza, Egypt

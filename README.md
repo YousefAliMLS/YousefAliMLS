@@ -196,6 +196,14 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
 - Mentored 30+ students in C/C++ programming and debugging
 - Received Certificate of Appreciation for exceptional teaching efforts (Spring 2025)
 
+### 📡 Software Engineering Member @ IEEE Nile University Student Branch
+*Dec 2025 – Present | Giza, Egypt | On-site*
+
+- Selected as a member of the Software Engineering Branch at IEEE NU Computer Society after a competitive evaluation process for technical excellence
+- Participate in technical sessions, workshops, and team-based projects focused on software engineering principles and real-world development practices
+- Collaborate with peers on coding tasks, system design discussions, and knowledge-sharing activities
+- Enhance skills in programming, software design, and team collaboration within a professional technical community
+
 ---
 
 ## 📊 GitHub Analytics

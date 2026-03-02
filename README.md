@@ -242,12 +242,10 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
   <a href="https://www.linkedin.com/in/yousef-ali-b38153304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YousefMahmoudAli@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://github.com/YousefAliMLS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+
 </p>
 
-<p align="center">
-  <i>"Building scalable systems and mentoring the next generation of engineers."</i>
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />

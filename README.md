@@ -8,16 +8,18 @@
   <a href="https://www.linkedin.com/in/yousef-ali-b38153304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YousefMahmoudAli@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://github.com/YousefAliMLS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YousefAliMLS&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer Science student at Nile University (CGPA: 3.85+/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
+Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
 
 - 🎓 **Education:** B.Sc. in Computer Science, Nile University (2023–2027)
 - 📍 **Location:** 6th of October City, Giza, Egypt
@@ -82,9 +84,8 @@ Computer Science student at Nile University (CGPA: 3.85+/4.0) with a passion for
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>🏋️ CoreX Fitness Web Application</b> (Oct 2025 – Jan 2026)</summary>
-<br>
+### 🏋️ CoreX Fitness Web Application *(Oct 2025 – Jan 2026)*
+
 <p>
   <img src="https://img.shields.io/badge/ASP.NET_Core_9.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
@@ -92,85 +93,79 @@ Computer Science student at Nile University (CGPA: 3.85+/4.0) with a passion for
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-**Problem:** Existing fitness platforms are overly complex or expensive, lacking a streamlined solution for tracking progress.
+- 🔵 **Situation:** Fitness enthusiasts lacked an affordable, streamlined platform to track workouts and monitor progress without the bloat of enterprise-level tools.
+- 🎯 **Task:** Design and deliver a full-stack fitness web application with secure user authentication, rate limiting, and cloud deployment from scratch.
+- ⚙️ **Action:** Built an ASP.NET Core 9.0 Web API backend connected to SQL Server, developed a responsive HTML/CSS/JS frontend hosted on GitHub Pages, and set up CI/CD pipelines for automated deployments to Azure.
+- ✅ **Result:** Successfully deployed a production-ready platform and presented it at the **21st Undergraduate Research Forum (UGRF)**, receiving recognition for its clean architecture and real-world applicability.
 
-**Solution:** Full-stack platform with secure authentication and rate limiting, deployed on Azure. Presented at the 21st Undergraduate Research Forum (UGRF).
+🔗 [GitHub Repository](https://github.com/The-Cour-Four) • 🌐 [Live Demo](https://corexfitness.me/)
 
-**Architecture:** ASP.NET Core 9.0 Web API backend with SQL Server, responsive HTML/CSS/JS frontend hosted on GitHub Pages, and CI/CD pipelines for automated deployment.
+---
 
-🔗 [GitHub Repository](#) • 🌐 [Live Demo](#)
-</details>
+### 📝 Online Quiz Application *(Apr 2025 – Jul 2025)*
 
-<details>
-<summary><b>📝 Online Quiz Application</b> (Apr 2025 – Jul 2025)</summary>
-<br>
 <p>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=entity-framework&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-**Problem:** Need for a dynamic, scalable quiz system with automated scoring and user session management.
+- 🔵 **Situation:** Existing quiz tools were either too rigid or too simple, lacking dynamic question management, proper session handling, and automated scoring in a single cohesive system.
+- 🎯 **Task:** Build a scalable backend system that supports quiz creation, user authentication, session management, and real-time score evaluation via a clean REST API.
+- ⚙️ **Action:** Developed RESTful APIs using .NET Core with EF Core ORM for data access, applying a clean architecture with the repository pattern to separate controllers, services, and data layers.
+- ✅ **Result:** Delivered a robust, maintainable quiz backend with automated scoring logic and clearly decoupled architecture, ready for frontend integration or further scaling.
 
-**Solution:** Built a robust backend with RESTful APIs for quiz creation, user authentication, and session handling. Implemented automated scoring logic with EF Core ORM.
+🔗 [GitHub Repository](https://github.com/YousefAliMLS/Online-Quiz-Application-Version-4)
 
-**Architecture:** Clean architecture with repository pattern, separating concerns between controllers, services, and data access layers.
+---
 
-🔗 [GitHub Repository](#)
-</details>
+### 🏨 Hotel Booking Prediction System *(Jun 2025 – Jul 2025)*
 
-<details>
-<summary><b>🏨 Hotel Booking Prediction System</b> (Jun 2025 – Jul 2025)</summary>
-<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
-**Problem:** Hotels need to predict booking cancellations to optimize revenue and resource allocation.
+- 🔵 **Situation:** Hotels were losing significant revenue due to unexpected booking cancellations, with no data-driven mechanism to anticipate and respond to them proactively.
+- 🎯 **Task:** Build an end-to-end ML solution capable of predicting cancellations with high accuracy and expose it as a deployable web service.
+- ⚙️ **Action:** Engineered a modular ML pipeline covering data preprocessing, feature engineering, logistic regression model training, and inference — then wrapped it in a Flask web application for production deployment.
+- ✅ **Result:** Achieved **81% prediction accuracy**, delivering a production-ready tool that enables hotels to optimize resource allocation and reduce revenue loss from cancellations.
 
-**Solution:** Engineered ML pipeline with logistic regression achieving 81% prediction accuracy. Deployed as production-ready Flask web application.
+🔗 [GitHub Repository](https://github.com/YousefAliMLS/Hotel-Booking-Predictor)
 
-**Architecture:** Modular pipeline with separate preprocessing, feature engineering, model training, and inference components.
+---
 
-🔗 [GitHub Repository](#)
-</details>
+### ❤️ HeartCare AI *(Jan 2025 – Feb 2025)*
 
-<details>
-<summary><b>❤️ HeartCare AI</b> (Jan 2025 – Feb 2025)</summary>
-<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
-**Problem:** Early detection of heart disease can save lives, but requires accurate predictive models.
+- 🔵 **Situation:** Heart disease remains one of the leading causes of death globally, yet early detection is often delayed due to the complexity of interpreting clinical data patterns.
+- 🎯 **Task:** Develop a classification model that accurately identifies patients at risk of heart disease using structured medical datasets.
+- ⚙️ **Action:** Applied correlation analysis for feature selection, PCA for dimensionality reduction, and built an ensemble voting classifier with rigorous hyperparameter tuning and cross-validation to maximize generalization.
+- ✅ **Result:** Achieved **85% classification accuracy**, producing a reliable diagnostic support tool with a well-documented, reproducible ML pipeline.
 
-**Solution:** Developed classification model with 85% accuracy through rigorous feature engineering, hyperparameter tuning, and cross-validation.
+🔗 [GitHub Repository](https://github.com/YousefAliMLS/HeartCare-AI-Predicting-Heart-Disease-with-Machine-Learning)
 
-**Architecture:** Feature selection pipeline with correlation analysis, PCA for dimensionality reduction, and ensemble voting classifier.
+---
 
-🔗 [GitHub Repository](#)
-</details>
+### 💪 Gym Membership System *(Feb 2025 – Mar 2025)*
 
-<details>
-<summary><b>💪 Gym Membership System</b> (Feb 2025 – Mar 2025)</summary>
-<br>
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/OOP-0078D4?style=flat-square&logo=object-oriented&logoColor=white" />
 </p>
 
-**Problem:** Gyms need efficient systems for membership tracking, check-ins, and financial reporting.
+- 🔵 **Situation:** Gym administrators relied on manual or fragmented processes for member registration, attendance tracking, and financial reporting, leading to inefficiencies and errors.
+- 🎯 **Task:** Design a well-structured, object-oriented system in C# that centralizes gym operations and supports multiple membership tiers with real-time check-in tracking.
+- ⚙️ **Action:** Applied SOLID principles throughout the design, using abstract classes and interfaces for member management, the strategy pattern for different membership tiers, and the observer pattern to trigger real-time check-in updates.
+- ✅ **Result:** Delivered a clean, extensible OOP system that streamlines member registration, automates attendance logging, and generates accurate revenue reports — demonstrating strong software design fundamentals.
 
-**Solution:** Designed OOP system using abstract classes and interfaces for member registration, attendance tracking, and revenue reporting.
-
-**Architecture:** SOLID principles applied with strategy pattern for different membership tiers and observer pattern for real-time check-in updates.
-
-🔗 [GitHub Repository](#)
-</details>
+🔗 [GitHub Repository](https://github.com/YousefAliMLS/Gym-Membership-Management-System-in-C-)
 
 ---
 

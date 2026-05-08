@@ -1,21 +1,20 @@
 # 💻 Yousef Mahmoud Ali
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Researcher;ASP.NET+Core+Developer+Enthusiast;Junior+Teaching+Assistant;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Researcher;ASP.NET+Core+Developer;IEEE+Software+Engineering+Mentor;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-ali-b38153304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YousefMahmoudAli@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://github.com/YousefAliMLS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
+Computer Science student at Nile University (GPA: 4.0/4.0) with a passion for building scalable backend systems and AI-driven solutions. Experienced in mentoring students as a Junior Teaching Assistant across three courses, delivering production-ready ML/NLP projects, and developing full-stack applications deployed on Azure. I bridge the gap between theoretical computer science and practical engineering.
 
 - 🎓 **Education:** B.Sc. in Computer Science, Nile University (2023–2027)
 - 📍 **Location:** 6th of October City, Giza, Egypt
@@ -167,6 +166,13 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
 
 ## 💼 Experience
 
+### 👨‍🏫 Software Engineering Mentor & Facilitator @ IEEE Nile University Student Branch
+*Mar 2026 – Present | Giza, Egypt | On-site*
+
+- Promoted to Mentor/Facilitator role, guiding members through software engineering principles and real-world development practices
+- Design comprehensive project guidelines and conceptual frameworks to help teams structure and execute technical projects
+- Produce and record technical tutorial sessions to scale knowledge-sharing across the student branch
+
 ### 📊 NLP Engineer Intern @ Cellula Technologies
 *Sep 2025 – Nov 2025 | Remote/Hybrid*
 
@@ -197,12 +203,11 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
 - Received Certificate of Appreciation for exceptional teaching efforts (Spring 2025)
 
 ### 📡 Software Engineering Member @ IEEE Nile University Student Branch
-*Dec 2025 – Present | Giza, Egypt | On-site*
+*Dec 2025 – Mar 2026 | Giza, Egypt | On-site*
 
-- Selected as a member of the Software Engineering Branch at IEEE NU Computer Society after a competitive evaluation process for technical excellence
-- Participate in technical sessions, workshops, and team-based projects focused on software engineering principles and real-world development practices
-- Collaborate with peers on coding tasks, system design discussions, and knowledge-sharing activities
-- Enhance skills in programming, software design, and team collaboration within a professional technical community
+- Selected as a member after a competitive evaluation process for technical excellence
+- Participated in technical sessions, workshops, and team-based projects focused on software engineering principles and real-world development practices
+- Collaborated with peers on coding tasks, system design discussions, and knowledge-sharing activities
 
 ---
 
@@ -232,6 +237,8 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
 
 ## 🏆 Certifications & Achievements
 
+- 🏅 **President's Honor Roll** – Perfect 4.0 GPA, Nile University *(Fall 2025)*
+- 🏅 **Dean's Honor Roll** – GPA 3.8+/4.0, Nile University *(Spring 2025)*
 - 🎓 Certificate of Appreciation – JTA CSCI112 | Prof. Ahmed Elshafee, Nile University *(Feb 2026)*
 - 🏅 21st UGRF Participant – CoreX Fitness project with team *(Jan 2026)*
 - 👥 Google Developer Group NU – Backend workshops and quiz app prototyping *(Feb 2025 – Jul 2025)*
@@ -250,10 +257,7 @@ Computer Science student at Nile University (GPA: 3.85+/4.0) with a passion for 
   <a href="https://www.linkedin.com/in/yousef-ali-b38153304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YousefMahmoudAli@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="https://github.com/YousefAliMLS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />

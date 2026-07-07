@@ -20,9 +20,9 @@ scalable cloud-hosted applications (ASP.NET, Azure). Proven communicator and lea
 Assistant and Software Engineering Mentor, guiding 80+ students in programming, algorithms, and system design.
 
 
-- **Education:** B.Sc. in Computer Science, Nile University (2023–2027) 🎓
-- **Location:** 6th of October City, Giza, Egypt 📍
-- **Interests:** Software Architecture, AI/ML Systems, Algorithm Design, Cloud Computing 🧠
+- **Education:** B.Sc. in Computer Science, Nile University (2023–2027) 
+- **Location:** 6th of October City, Giza, Egypt 
+- **Interests:** Software Architecture, AI/ML Systems, Algorithm Design, Cloud Computing 
 
 ---
 

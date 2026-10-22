@@ -92,10 +92,10 @@ Assistant and Software Engineering Mentor, guiding 80+ students in programming, 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-- **Situation:** Security teams needed to detect anomalies across massive volumes of network log data, but traditional single-threaded analysis couldn't keep pace with the scale involved. 🔵
-- **Task:** Build a distributed intrusion detection system capable of processing large volumes of network logs and flagging anomalous behavior efficiently. 🎯
+- **Situation:** Security teams needed to detect anomalies across massive volumes of network log data, but traditional single-threaded analysis couldn't keep pace with the scale involved.
+- **Task:** Build a distributed intrusion detection system capable of processing large volumes of network logs and flagging anomalous behavior efficiently.
 - **Action:** As part of a 5-person team, engineered a distributed pipeline using Kafka, Apache Spark, and Spark MLlib to process 11+ GB of network logs against the Kyoushi Log Dataset, implementing dual anomaly detection engines (Z-scores and K-Means clustering) and visualizing results in Zeppelin notebooks. ⚙️
-- **Result:** Achieved a 6.7x speedup over single-threaded Python processing, delivering a scalable detection system documented in an accompanying IEEE paper. ✅
+- **Result:** Achieved a 6.7x speedup over single-threaded Python processing, delivering a scalable detection system documented in an accompanying IEEE paper.
 
 ---
 
